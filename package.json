@@ -2,10 +2,10 @@
   "name": "ssn",
   "private": true,
   "license": "AGPL-3.0-or-later",
-  "homepage": "https://git.jedipedia.net/swtor/ssn",
+  "homepage": "https://github.com/Tormak9970/ssn.git",
   "repository": {
     "type": "git",
-    "url": "https://git.jedipedia.net/swtor/ssn.git"
+    "url": "https://github.com/Tormak9970/ssn.git"
   },
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
