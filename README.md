@@ -15,7 +15,7 @@ In the project where you want to use this library, add the following to your `pa
 ```json
 {
   "dependencies": {
-    "ssn": "git+https://git.jedipedia.net/swtor/ssn.git"
+    "ssn": "git+https://github.com/Tormak9970/ssn.git"
   }
 }
 ```
