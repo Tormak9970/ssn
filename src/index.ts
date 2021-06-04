@@ -23,3 +23,5 @@ export { default as verifySolidpkg } from './ssn/verify/verifySolidpkg';
 export { default as parsePatchmanifest } from './ssn/reader/parsePatchmanifest';
 export { default as streamToString } from './ssn/streams/streamToString';
 export { default as verifyPatchmanifest } from './ssn/verify/verifyPatchmanifest';
+
+export { default as verifyPatch } from './ssn/verify/verifyPatch';
