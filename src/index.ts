@@ -24,4 +24,6 @@ export { default as parsePatchmanifest } from './ssn/reader/parsePatchmanifest';
 export { default as streamToString } from './ssn/streams/streamToString';
 export { default as verifyPatchmanifest } from './ssn/verify/verifyPatchmanifest';
 
+export { default as launch } from './ssn/installation/launch';
+export { default as taskManager } from './ssn/installation/taskManager';
 export { default as verifyPatch } from './ssn/verify/verifyPatch';
