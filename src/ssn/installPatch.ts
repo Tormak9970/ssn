@@ -183,7 +183,7 @@ export default async function installPatch({ product, from, to, sourceDirectory,
   try {
     await taskManager(tasks, 3);
   } catch (error) {
-    throw new Error(error);
+    throw error;
   }
 
   //TODO: add option to delete downloaded files once patching is complete
